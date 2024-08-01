@@ -1,0 +1,16 @@
+server:
+  port: 51601
+spring:
+  application:
+    name: leadnews-app-gateway
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.137.3:38848
+        username: nacos
+        password: nacos
+      config:
+        server-addr: 192.168.137.3:38848
+        username: nacos
+        password: nacos
+        file-extension: yml
