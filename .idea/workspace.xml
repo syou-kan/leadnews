@@ -85,6 +85,9 @@
       <window_info anchor="right" id="GitHub Copilot Chat" order="8" show_stripe_button="false" />
     </layout>
   </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
